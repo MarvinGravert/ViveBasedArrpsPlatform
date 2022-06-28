@@ -1,0 +1,39 @@
+{
+    "devices": [
+        {
+            "name": "hmd",
+            "type": "HMD",
+            "serial": "XXX-XXXXXXXX"
+        },
+        {
+            "name": "tracking_reference_1",
+            "type": "Tracking Reference",
+            "serial": "LHB-XXXXXXXX"
+        },
+        {
+            "name": "lighthouse",
+            "type": "Tracking Reference",
+            "serial": "LHB-8F3CA9A0"
+        },
+        {
+            "name": "controller_1",
+            "type": "Controller",
+            "serial": "LHR-EDDC84D2"
+        },
+        {
+            "name": "handheld",
+            "type": "Controller",
+            "serial": "LHR-EB61CE69"
+        },
+        {
+            "name": "calibration_tracker",
+            "type": "Tracker",
+            "serial": "LHR-506121A7"
+        },
+        {
+            "name": "holo_tracker",
+            "type": "Tracker",
+            "serial": "LHR-2F3B022B"
+        }
+    ]
+}
