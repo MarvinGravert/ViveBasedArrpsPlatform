@@ -4,7 +4,8 @@ This repository contains the code associated with the paper: "Input and Tracking
 
 An input and tracking system based on the VIVE Lighthouse technology that can act as a basis for "Augmented reality robot programming systems" (ARRPS) is realized.
 
-[![Demonstration](https://github.com/MarvinGravert/ViveBasedArrpsPlatform/blob/master/docs/thumbnail.png)](https://drive.google.com/uc?export=view&id=1H2Rch_cU7NQEx1P7Vw_yysYIELuPIRAo "Demonstration")
+https://user-images.githubusercontent.com/56734428/180095449-6186b421-a6c3-4670-8d2b-ba70e61058e6.mp4
+
 
 In the video it is shown that a person can program a robot using the VIVE controllers. They are supported in this task by the  while being shown the programmed path using the Hololens.
 
